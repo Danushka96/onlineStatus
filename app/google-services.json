@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651221081939",
+    "firebase_url": "https://presentsystem-86020.firebaseio.com",
+    "project_id": "presentsystem-86020",
+    "storage_bucket": "presentsystem-86020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651221081939:android:311d58aff8918b4f",
+        "android_client_info": {
+          "package_name": "com.picknwash.presentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651221081939-i7o2pguf2jctnbqp81oo6hia7f245k1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.picknwash.presentsystem",
+            "certificate_hash": "ccea186e548b90f6541ae991fbf8d56378cbbd99"
+          }
+        },
+        {
+          "client_id": "651221081939-kkpqt4it5j402u14lurtfosrkreau599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDrLvcToSdpsa5AcarYCr7jI1Zf8h0uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651221081939-kkpqt4it5j402u14lurtfosrkreau599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
